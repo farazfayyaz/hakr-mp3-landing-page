@@ -10,7 +10,7 @@ function Nav() {
                 Hakr.mp3
             </h4>
 
-            <ul className='flex gap-10 ml-auto max-sm:gap-5'>
+            <ul className='flex gap-10 ml-auto max-sm:hidden'>
 
                 <li>
                     <a href='#'>
