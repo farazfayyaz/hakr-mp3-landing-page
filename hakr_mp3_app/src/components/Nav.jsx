@@ -6,7 +6,7 @@ function Nav() {
 
         <nav className='mx-8 flex h-20 items-center max-sm:mx-0'>
 
-            <h4 className='mr-auto'>
+            <h4 className='mr-auto max-sm:ml-4'>
                 Hakr.mp3
             </h4>
 
@@ -34,7 +34,7 @@ function Nav() {
 
             <a 
             href='#'
-            className='bg-blue-600 h-10 w-24 rounded-lg flex justify-evenly sm:min-w-24 max-sm:ml-auto'
+            className='bg-blue-600 h-10 w-24 rounded-lg flex justify-evenly sm:min-w-24 max-sm:ml-auto max-sm:mr-4'
             >
                 <p className='self-center'>
                     Download
