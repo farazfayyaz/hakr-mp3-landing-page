@@ -6,7 +6,7 @@ function Footer() {
 
         <div>
 
-          <ul className='h-20 pt-8 mx-10 flex gap-10 max-sm:mb-14'>
+          <ul className='h-20 pt-8 mx-10 flex gap-10 max-sm:mb-20'>
             <li className='mr-auto'>&copy; 2023 Hakr.mp3 - All rights reserved</li>
             <li>
               <a href = "#">
