@@ -34,7 +34,7 @@ function Nav() {
 
             <a 
             href='#'
-            className='bg-blue-600 h-10 w-24 rounded-lg flex justify-evenly sm:min-w-24'
+            className='bg-blue-600 h-10 w-24 rounded-lg flex justify-evenly sm:min-w-24 max-sm:ml-auto'
             >
                 <p className='self-center'>
                     Download
