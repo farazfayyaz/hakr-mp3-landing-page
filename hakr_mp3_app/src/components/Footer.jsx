@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <footer className='h-72  ' >
+    <footer className='h-72 max-sm:h-80' >
 
         <div>
 
