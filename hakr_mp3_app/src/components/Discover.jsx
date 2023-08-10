@@ -4,7 +4,7 @@ function Discover() {
   return (
     <section className='h-96 py-28 flex justify-center'>
 
-        <div className='h-60 w-1/2 flex flex-row place-items-center justify-around self-center '>
+        <div className='h-60 w-1/2 flex flex-row place-items-center justify-around self-center max-md:flex-col max-md:text-center'>
 
             <h2 className='w-60 '>
               Discover Your New Flow
