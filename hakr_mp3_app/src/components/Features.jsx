@@ -8,7 +8,7 @@ function Features() {
   return (
     <section className='lg:max-h-96 py-12 flex justify-around '>
 
-        <div className='lg:max-h-80 lg:w-3/4 py-10 flex lg:flex-row place-items-center self-center justify-around md:w-full md:flex-col md:gap-5 sm:flex-col sm:gap-5'>
+        <div className='lg:max-h-80 lg:w-3/4 py-10 flex lg:flex-row place-items-center self-center justify-around max-md:flex-col max-md:gap-5 max-md:min-w-full'>
 
             <Card icon = {Language} title = 'Language Specific Soundtracks' phrase = '' />
             <Card icon = {Code} title = 'Coding Environment Integration' phrase = '' />
