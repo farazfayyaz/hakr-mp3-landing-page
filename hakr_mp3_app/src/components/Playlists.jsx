@@ -7,7 +7,7 @@ function Playlists() {
   return (
     <section className='lg:max-h-96 lg:py-72 flex flex-col gap-10 justify-center sm:h-30 sm:py-10'>
 
-        <div className='lg:h-60 w-1/2 lg:py-5 flex justify-around self-center max-md:flex-col max-md:text-center'>
+        <div className='lg:h-60 w-1/2 lg:py-5 flex place-items-center self-center max-md:flex-col max-md:text-center'>
 
             <h2 className='w-60 self-center max-md:max-w-60'>
               Playlists For Any Task
