@@ -2,15 +2,15 @@ import React from 'react'
 
 function Hero() {
   return (
-    <section className='h-96 py-72 text-center flex justify-evenly'>
+    <section className='lg:max-h-96 py-72 text-center flex justify-evenly md:py-20 sm:py-10'>
         
-        <div className='h-72 w-1/2 self-center flex flex-col justify-evenly items-center'>
+        <div className='lg:h-72 w-1/2 self-center flex flex-col justify-evenly items-center md:gap-5 sm:gap-5 sm:min-w-1/2'>
 
-          <h1 className='text-4xl font-bold h-28 w-2/3 content-center'>
+          <h1 className='text-4xl font-bold lg:h-28 lg:w-2/3 content-center md:w-full sm:w-full'>
             Enjoy The Best Music Collection For Any Techie
           </h1>
 
-          <p className='h-24 w-1/2 text-lg mb-8'>
+          <p className='lg:h-24 lg:w-1/2 text-lg mb-8 md:w-full sm:w-full'>
             Specially curated playlists for any programmer. Whether you 
             are creating, analyzing, or debugging, there is something for you.
           </p>

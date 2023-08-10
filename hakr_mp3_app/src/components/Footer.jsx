@@ -8,9 +8,21 @@ function Footer() {
 
           <ul className='h-20 pt-8 mx-10 flex gap-10'>
             <li className='mr-auto'>&copy; 2023 Hakr.mp3 - All rights reserved</li>
-            <li>Terms</li>
-            <li>Privacy</li>
-            <li>Cookies</li>
+            <li>
+              <a href = "#">
+                Terms
+              </a>
+            </li>
+            <li>
+              <a href = "#">
+                Privacy
+              </a>
+            </li>
+            <li>
+              <a href = "#">
+                Cookies
+              </a>
+            </li>
           </ul>
 
         </div>

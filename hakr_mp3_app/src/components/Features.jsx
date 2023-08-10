@@ -6,9 +6,9 @@ import Streaming from '../images/streaming.png'
 
 function Features() {
   return (
-    <section className='h-96 py-12 flex justify-around'>
+    <section className='lg:max-h-96 py-12 flex justify-around '>
 
-        <div className='h-80 w-3/4 py-10 flex place-items-center self-center justify-around '>
+        <div className='lg:max-h-80 lg:w-3/4 py-10 flex lg:flex-row place-items-center self-center justify-around md:w-full md:flex-col md:gap-5 sm:flex-col sm:gap-5'>
 
             <Card icon = {Language} title = 'Language Specific Soundtracks' phrase = '' />
             <Card icon = {Code} title = 'Coding Environment Integration' phrase = '' />
