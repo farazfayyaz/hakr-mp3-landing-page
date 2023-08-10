@@ -4,7 +4,7 @@ function Nav() {
   return (
     <header className='bg-black text-white h-20 my-4'>
 
-        <nav className='mx-8 flex  h-20 items-center max-sm:min-w-full max-sm:mx-8'>
+        <nav className='mx-8 flex h-20 items-center max-sm:mx-0'>
 
             <h4 className='mr-auto'>
                 Hakr.mp3
