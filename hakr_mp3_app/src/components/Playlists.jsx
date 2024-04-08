@@ -9,7 +9,7 @@ function Playlists() {
 
         <div className='lg:h-60 w-1/2 lg:py-5 flex place-items-center self-center max-md:flex-col max-md:text-center'>
 
-            <h2 className='w-60 self-center max-md:max-w-60'>
+            <h2 className='w-60 max-md:max-w-60'>
               Playlists For Any Task
             </h2>
 
